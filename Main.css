@@ -1,0 +1,35 @@
+@font-face {
+    font-family:pirate;
+    src: url(Pieces_of_Eight.ttf);
+}
+
+html {
+    
+    background: #A40000;
+background: -moz-radial-gradient(center, #A40000 0%, #21CB2F 53%, #757575 100%);
+background: -webkit-radial-gradient(center, #A40000 0%, #21CB2F 53%, #757575 100%);
+background: radial-gradient(ellipse at center, #A40000 0%, #21CB2F 53%, #757575 100%);
+
+    
+ 
+}
+
+body {
+    text-align: center
+}
+
+img {
+    height:200px;
+    width: auto;
+}
+
+h1 {
+    font-family:pirate;
+    font-size: 100px;
+    
+}
+
+h2 {
+    font-family:pirate;
+    font-size: 50px;
+}
